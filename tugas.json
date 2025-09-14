@@ -1,0 +1,50 @@
+{
+  "pnj102": {
+    "nama": "Pendidikan Kewarganegaraan",
+    "tugas": [
+      {
+        "id": 1,
+        "judul": "Tantangan Moralitas di Era Kekinian (PPT, Kelompok)",
+        "tanggal": "2025-01-25",
+        "deadline": "2025-01-27",
+        "note": "Tugas 1 – Tantangan Moralitas di Era Kekinian:\n1. Buatlah Presentasi dengan Judul Tantangan Moralitas di Era Kekinian\n2. Prsentasi dibuat dalam bentuk PPT\n3. Buatlah Presentasi semenarik mungkin dan jika perlu ditambahkan gambar/foto\n4. PPT dibuat dengan jumlah 13 halaman, 10 halaman isi\n5. Dihalaman terakhir tuliskan sumber/referensi tulisan (Tidak Boleh Wikipedia/Blogspot)\n6. PPT dibuat secara kelompok"
+      }
+    ]
+  },
+  "tee201": {
+    "nama": "Bahasa Inggris Teknik 1",
+    "tugas": []
+  },
+  "tee202": {
+    "nama": "Elektronika Analog 1",
+    "tugas": []
+  },
+  "tee203": {
+    "nama": "Elektronika Digital Lanjut",
+    "tugas": []
+  },
+  "tee204": {
+    "nama": "Rangkaian Listrik Lanjut",
+    "tugas": []
+  },
+  "tee205": {
+    "nama": "Sistem Mikroprosesor Dasar",
+    "tugas": []
+  },
+  "tee206": {
+    "nama": "Matematika Terapan 2",
+    "tugas": []
+  },
+  "tee207": {
+    "nama": "Jaringan Komputer",
+    "tugas": []
+  },
+  "tee208": {
+    "nama": "Bengkel Elektronika",
+    "tugas": []
+  },
+  "tee209": {
+    "nama": "Desain PCB",
+    "tugas": []
+  }
+}
